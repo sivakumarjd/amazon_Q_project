@@ -2,10 +2,12 @@
 Detailed Step-By-Step Installation and Configuration document added for ref. Amazon Q _ Step-by-Step  Practical Document.docx
 
 I tried 4 use cases(3 Gagmes & 1 Web App) and successfully implemented and tested four use cases using the Amazon CLI, showcasing seamless deployment and execution. The use cases include three interactive games and one web application, all verified individually for functionality.
+
 🎮 Games:
 1.	Tank Game
 2.	Snake Game
 3.	Space Invaders
+
 🌐 Web App:
 1.	BMI Calculator
 Captured the deployment process and results for future reference. This hands-on experience further deepened my understanding of cloud-native app hosting and resource management via the AWS Command Line Interface.
